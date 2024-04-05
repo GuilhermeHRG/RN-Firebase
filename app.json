@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "firebase",
-    "slug": "firebase",
+    "name": "rn-firebase",
+    "slug": "rn-firebase",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
